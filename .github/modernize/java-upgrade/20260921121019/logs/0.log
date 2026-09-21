@@ -1,0 +1,325 @@
+2026-09-21T12:10:19.596Z [INFO] ----------------------invoke appmod-list-jdks----------------------
+2026-09-21T12:10:19.597Z [INFO] [Tool.invoke]({name: appmod-list-jdks, modelId: auto, input: {
+  "version": "25",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out"
+}}).
+2026-09-21T12:10:19.597Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:10:19.607Z [INFO] [Tool.invoke]({result: {
+  "message": "We found following jdks in your system:\n\n1. Java 25.0.1\n   📁 Path: C:\\Program Files\\Eclipse Adoptium\\jdk-25.0.1.8-hotspot\\bin\n   🏷️ Source: PATH\n\nTotal: 1 JDK installation(s) found"
+}}).
+2026-09-21T12:10:19.608Z [INFO] ----------------------invoked appmod-list-jdks----------------------
+2026-09-21T12:10:19.630Z [INFO] ----------------------invoke appmod-list-jdks----------------------
+2026-09-21T12:10:19.630Z [INFO] [Tool.invoke]({name: appmod-list-jdks, modelId: auto, input: {
+  "version": "21",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out"
+}}).
+2026-09-21T12:10:19.630Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:10:19.641Z [INFO] [Tool.invoke]({result: {
+  "message": "No JDK installations found."
+}}).
+2026-09-21T12:10:19.642Z [INFO] ----------------------invoked appmod-list-jdks----------------------
+2026-09-21T12:10:19.647Z [INFO] ---------------------prepare appmod-list-jdks----------------------
+2026-09-21T12:10:19.648Z [INFO] [Tool.prepareInvocation]({name: appmod-list-jdks, input: {
+  "version": "17"
+}}).
+2026-09-21T12:10:19.648Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:10:19.648Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "List jdks"
+}}).
+2026-09-21T12:10:19.648Z [INFO] ----------------------prepared appmod-list-jdks----------------------
+2026-09-21T12:10:19.663Z [INFO] ----------------------invoke appmod-list-jdks----------------------
+2026-09-21T12:10:19.663Z [INFO] [Tool.invoke]({name: appmod-list-jdks, modelId: auto, input: {
+  "version": "17",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out"
+}}).
+2026-09-21T12:10:19.663Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:10:19.672Z [INFO] [Tool.invoke]({result: {
+  "message": "No JDK installations found."
+}}).
+2026-09-21T12:10:19.672Z [INFO] ----------------------invoked appmod-list-jdks----------------------
+2026-09-21T12:10:19.678Z [INFO] ---------------------prepare appmod-list-mavens----------------------
+2026-09-21T12:10:19.678Z [INFO] [Tool.prepareInvocation]({name: appmod-list-mavens, input: {
+  "includeVersion": true
+}}).
+2026-09-21T12:10:19.679Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:10:19.679Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "List mavens"
+}}).
+2026-09-21T12:10:19.679Z [INFO] ----------------------prepared appmod-list-mavens----------------------
+2026-09-21T12:10:19.696Z [INFO] ----------------------invoke appmod-list-mavens----------------------
+2026-09-21T12:10:19.696Z [INFO] [Tool.invoke]({name: appmod-list-mavens, modelId: auto, input: {
+  "includeVersion": true,
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out"
+}}).
+2026-09-21T12:10:19.696Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:10:23.251Z [INFO] [Tool.invoke]({result: {
+  "message": "We found following maven installations in your system:\n\n1. Maven 3.9.11\n   📁 Path: D:\\L\\apache-maven-3.9.11\\bin\n   🏷️ Source: MAVEN_HOME,PATH\n\nTotal: 1 Maven installation(s) found"
+}}).
+2026-09-21T12:10:23.251Z [INFO] ----------------------invoked appmod-list-mavens----------------------
+2026-09-21T12:10:45.608Z [INFO] ---------------------prepare appmod-list-jdks----------------------
+2026-09-21T12:10:45.609Z [INFO] [Tool.prepareInvocation]({name: appmod-list-jdks, input: {
+  "version": "24"
+}}).
+2026-09-21T12:10:45.609Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:10:45.609Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "List jdks"
+}}).
+2026-09-21T12:10:45.609Z [INFO] ----------------------prepared appmod-list-jdks----------------------
+2026-09-21T12:10:45.629Z [INFO] ----------------------invoke appmod-list-jdks----------------------
+2026-09-21T12:10:45.629Z [INFO] [Tool.invoke]({name: appmod-list-jdks, modelId: auto, input: {
+  "version": "24",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out"
+}}).
+2026-09-21T12:10:45.629Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:10:45.637Z [INFO] [Tool.invoke]({result: {
+  "message": "We found following jdks in your system:\n\n1. Java 24.0.2\n   📁 Path: D:\\Program Files\\Java\\jdk-24\\bin\n   🏷️ Source: PATH,JAVA_HOME\n\nTotal: 1 JDK installation(s) found"
+}}).
+2026-09-21T12:10:45.637Z [INFO] ----------------------invoked appmod-list-jdks----------------------
+2026-09-21T12:10:49.275Z [INFO] ---------------------prepare appmod-report-event----------------------
+2026-09-21T12:10:49.275Z [INFO] [Tool.prepareInvocation]({name: appmod-report-event, input: {
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "precheckCompleted",
+  "phase": "precheck",
+  "status": "succeeded",
+  "details": {
+    "components": [
+      {
+        "name": "jdk",
+        "baseVersion": "24",
+        "targetVersion": "25"
+      }
+    ]
+  }
+}}).
+2026-09-21T12:10:49.275Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:10:49.276Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "Report upgrade event"
+}}).
+2026-09-21T12:10:49.276Z [INFO] ----------------------prepared appmod-report-event----------------------
+2026-09-21T12:10:49.288Z [INFO] ----------------------invoke appmod-report-event----------------------
+2026-09-21T12:10:49.289Z [INFO] [Tool.invoke]({name: appmod-report-event, modelId: auto, input: {
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "precheckCompleted",
+  "phase": "precheck",
+  "status": "succeeded",
+  "details": {
+    "components": [
+      {
+        "name": "jdk",
+        "baseVersion": "24",
+        "targetVersion": "25"
+      }
+    ]
+  }
+}}).
+2026-09-21T12:10:49.289Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:10:49.290Z [INFO] Project d:\L\X\A_WORK\changqiongwaimai\day01\sky-take-out is a maven project, try to get java version from pom.xml
+2026-09-21T12:10:49.291Z [INFO] [Tool.invoke]({result: {
+  "message": "Event 'precheckCompleted' reported!\nSession ID: 20260921121019,\nSession Dir: d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out\\.github\\modernize\\java-upgrade\\20260921121019"
+}}).
+2026-09-21T12:10:49.291Z [INFO] ----------------------invoked appmod-report-event----------------------
+2026-09-21T12:10:56.524Z [INFO] ---------------------prepare appmod-report-event----------------------
+2026-09-21T12:10:56.524Z [INFO] [Tool.prepareInvocation]({name: appmod-report-event, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "planGenerationStarted",
+  "phase": "plan",
+  "status": "succeeded"
+}}).
+2026-09-21T12:10:56.524Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:10:56.524Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "Report upgrade event"
+}}).
+2026-09-21T12:10:56.525Z [INFO] ----------------------prepared appmod-report-event----------------------
+2026-09-21T12:10:56.545Z [INFO] ----------------------invoke appmod-report-event----------------------
+2026-09-21T12:10:56.545Z [INFO] [Tool.invoke]({name: appmod-report-event, modelId: auto, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "planGenerationStarted",
+  "phase": "plan",
+  "status": "succeeded"
+}}).
+2026-09-21T12:10:56.545Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:10:56.546Z [INFO] [Tool.invoke]({result: {
+  "message": "Event 'planGenerationStarted' reported!\nSession ID: 20260921121019,\nSession Dir: d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out\\.github\\modernize\\java-upgrade\\20260921121019"
+}}).
+2026-09-21T12:10:56.546Z [INFO] ----------------------invoked appmod-report-event----------------------
+2026-09-21T12:10:58.674Z [INFO] Project java version: 8
+2026-09-21T12:10:58.674Z [INFO] Maven project detected.
+2026-09-21T12:10:58.675Z [INFO] Build tool type: mvn
+2026-09-21T12:10:58.687Z [INFO] JDK: undefined
+2026-09-21T12:10:58.688Z [ERROR] Failed to detect or resolve JDK for the project at d:\L\X\A_WORK\changqiongwaimai\day01\sky-take-out.
+2026-09-21T12:10:58.688Z [WARN] [ReportEventTool] Full project info unavailable, attempting lightweight fallback: UserError: Failed to detect or resolve JDK for the project at d:\L\X\A_WORK\changqiongwaimai\day01\sky-take-out. Please ensure JDK 8 is installed and properly configured on the machine.
+2026-09-21T12:10:58.688Z [INFO] Maven project detected.
+2026-09-21T12:10:58.689Z [INFO] Project d:\L\X\A_WORK\changqiongwaimai\day01\sky-take-out is a maven project, try to get java version from pom.xml
+2026-09-21T12:15:02.426Z [INFO] ---------------------prepare appmod-confirm-upgrade-plan----------------------
+2026-09-21T12:15:02.426Z [INFO] [Tool.prepareInvocation]({name: appmod-confirm-upgrade-plan, input: {
+  "sessionId": "20260921121019",
+  "autoExecute": true
+}}).
+2026-09-21T12:15:02.426Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:15:02.427Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "Auto-executing [upgrade plan](file:///d:/L/X/A_WORK/changqiongwaimai/day01/sky-take-out/.github/modernize/java-upgrade/20260921121019/plan.md)"
+}}).
+2026-09-21T12:15:02.427Z [INFO] ----------------------prepared appmod-confirm-upgrade-plan----------------------
+2026-09-21T12:15:02.453Z [INFO] ----------------------invoke appmod-confirm-upgrade-plan----------------------
+2026-09-21T12:15:02.454Z [INFO] [Tool.invoke]({name: appmod-confirm-upgrade-plan, modelId: auto, input: {
+  "sessionId": "20260921121019",
+  "autoExecute": true
+}}).
+2026-09-21T12:15:02.454Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:15:02.454Z [INFO] Upgrade plan confirmed successfully.
+2026-09-21T12:15:02.454Z [INFO] [Tool.invoke]({result: {
+  "message": "Generated plan is reviewed and confirmed by the user! the upgrade process will start now."
+}}).
+2026-09-21T12:15:02.454Z [INFO] ----------------------invoked appmod-confirm-upgrade-plan----------------------
+2026-09-21T12:15:27.500Z [INFO] ---------------------prepare appmod-report-event----------------------
+2026-09-21T12:15:27.500Z [INFO] [Tool.prepareInvocation]({name: appmod-report-event, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "planExecutionStarted",
+  "phase": "execute",
+  "status": "succeeded"
+}}).
+2026-09-21T12:15:27.500Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:15:27.500Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "Report upgrade event"
+}}).
+2026-09-21T12:15:27.500Z [INFO] ----------------------prepared appmod-report-event----------------------
+2026-09-21T12:15:27.533Z [INFO] ----------------------invoke appmod-report-event----------------------
+2026-09-21T12:15:27.534Z [INFO] [Tool.invoke]({name: appmod-report-event, modelId: auto, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "planExecutionStarted",
+  "phase": "execute",
+  "status": "succeeded"
+}}).
+2026-09-21T12:15:27.534Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:15:27.731Z [INFO] [Tool.invoke]({result: {
+  "message": "Event 'planExecutionStarted' reported!\nSession ID: 20260921121019,\nSession Dir: d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out\\.github\\modernize\\java-upgrade\\20260921121019"
+}}).
+2026-09-21T12:15:27.731Z [INFO] ----------------------invoked appmod-report-event----------------------
+2026-09-21T12:15:51.401Z [INFO] ---------------------prepare appmod-report-event----------------------
+2026-09-21T12:15:51.401Z [INFO] [Tool.prepareInvocation]({name: appmod-report-event, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "environmentSetup",
+  "phase": "execute",
+  "status": "succeeded",
+  "details": {
+    "jdkPath": "D:\\Program Files\\Java\\jdk-25.0.1.8-hotspot\\bin",
+    "buildToolPath": "D:\\L\\apache-maven-3.9.11\\bin\\mvn.cmd"
+  }
+}}).
+2026-09-21T12:15:51.402Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:15:51.402Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "Report upgrade event"
+}}).
+2026-09-21T12:15:51.402Z [INFO] ----------------------prepared appmod-report-event----------------------
+2026-09-21T12:15:51.430Z [INFO] ----------------------invoke appmod-report-event----------------------
+2026-09-21T12:15:51.430Z [INFO] [Tool.invoke]({name: appmod-report-event, modelId: auto, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "environmentSetup",
+  "phase": "execute",
+  "status": "succeeded",
+  "details": {
+    "jdkPath": "D:\\Program Files\\Java\\jdk-25.0.1.8-hotspot\\bin",
+    "buildToolPath": "D:\\L\\apache-maven-3.9.11\\bin\\mvn.cmd"
+  }
+}}).
+2026-09-21T12:15:51.431Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:15:51.432Z [INFO] Project d:\L\X\A_WORK\changqiongwaimai\day01\sky-take-out is a maven project, try to get java version from pom.xml
+2026-09-21T12:15:51.432Z [INFO] [Tool.invoke]({result: {
+  "message": "Event 'environmentSetup' reported!\nSession ID: 20260921121019,\nSession Dir: d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out\\.github\\modernize\\java-upgrade\\20260921121019"
+}}).
+2026-09-21T12:15:51.433Z [INFO] ----------------------invoked appmod-report-event----------------------
+2026-09-21T12:15:53.940Z [INFO] Project java version: 8
+2026-09-21T12:15:53.940Z [INFO] Maven project detected.
+2026-09-21T12:15:53.941Z [INFO] Build tool type: mvn
+2026-09-21T12:15:53.941Z [INFO] JDK: {
+  "name": "java",
+  "path": "D:\\Program Files\\Java\\jdk-25.0.1.8-hotspot\\bin",
+  "version": "8"
+}
+2026-09-21T12:15:53.941Z [INFO] Build tool: {
+  "name": "mvn",
+  "path": "D:\\L\\apache-maven-3.9.11\\bin\\mvn.cmd\\bin",
+  "version": ""
+}
+2026-09-21T12:15:53.941Z [INFO] Project config: {
+  "buildTool": {
+    "path": "D:\\L\\apache-maven-3.9.11\\bin\\mvn.cmd\\bin",
+    "name": "mvn",
+    "version": ""
+  },
+  "jdk": {
+    "path": "D:\\Program Files\\Java\\jdk-25.0.1.8-hotspot\\bin",
+    "name": "java",
+    "version": "8"
+  },
+  "name": "sky-take-out",
+  "dir": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out"
+}
+2026-09-21T12:15:54.154Z [INFO] ---------------------prepare appmod-report-event----------------------
+2026-09-21T12:15:54.154Z [INFO] [Tool.prepareInvocation]({name: appmod-report-event, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "baselineSetup",
+  "phase": "execute",
+  "status": "failed",
+  "message": "Baseline compile failed in sky-common because Lombok 1.18.20 did not generate the logger/getter members used by AliOssUtil and WeChatProperties."
+}}).
+2026-09-21T12:15:54.154Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:15:54.155Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "Report upgrade event"
+}}).
+2026-09-21T12:15:54.155Z [INFO] ----------------------prepared appmod-report-event----------------------
+2026-09-21T12:15:54.219Z [INFO] ----------------------invoke appmod-report-event----------------------
+2026-09-21T12:15:54.219Z [INFO] [Tool.invoke]({name: appmod-report-event, modelId: auto, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "baselineSetup",
+  "phase": "execute",
+  "status": "failed",
+  "message": "Baseline compile failed in sky-common because Lombok 1.18.20 did not generate the logger/getter members used by AliOssUtil and WeChatProperties."
+}}).
+2026-09-21T12:15:54.219Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:15:54.220Z [INFO] [Tool.invoke]({result: {
+  "message": "Event 'baselineSetup' reported!\nSession ID: 20260921121019,\nSession Dir: d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out\\.github\\modernize\\java-upgrade\\20260921121019"
+}}).
+2026-09-21T12:15:54.220Z [INFO] ----------------------invoked appmod-report-event----------------------
+2026-09-21T12:16:12.901Z [INFO] ---------------------prepare appmod-report-event----------------------
+2026-09-21T12:16:12.901Z [INFO] [Tool.prepareInvocation]({name: appmod-report-event, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "upgradeStepStarted",
+  "phase": "execute",
+  "status": "succeeded",
+  "details": {
+    "stepNumber": 3,
+    "stepTitle": "Upgrade Java 25 Runtime Target and Lombok"
+  }
+}}).
+2026-09-21T12:16:12.902Z [INFO] [Tool.prepareInvocation] do prepare invocation.
+2026-09-21T12:16:12.902Z [INFO] [Tool.prepareInvocation]({result: {
+  "invocationMessage": "Report upgrade event"
+}}).
+2026-09-21T12:16:12.903Z [INFO] ----------------------prepared appmod-report-event----------------------
+2026-09-21T12:16:12.941Z [INFO] ----------------------invoke appmod-report-event----------------------
+2026-09-21T12:16:12.942Z [INFO] [Tool.invoke]({name: appmod-report-event, modelId: auto, input: {
+  "sessionId": "20260921121019",
+  "projectPath": "d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out",
+  "event": "upgradeStepStarted",
+  "phase": "execute",
+  "status": "succeeded",
+  "details": {
+    "stepNumber": 3,
+    "stepTitle": "Upgrade Java 25 Runtime Target and Lombok"
+  }
+}}).
+2026-09-21T12:16:12.942Z [INFO] [Tool.invoke] do invoke.
+2026-09-21T12:16:12.943Z [INFO] [Tool.invoke]({result: {
+  "message": "Event 'upgradeStepStarted' reported!\nSession ID: 20260921121019,\nSession Dir: d:\\L\\X\\A_WORK\\changqiongwaimai\\day01\\sky-take-out\\.github\\modernize\\java-upgrade\\20260921121019"
+}}).
+2026-09-21T12:16:12.943Z [INFO] ----------------------invoked appmod-report-event----------------------
